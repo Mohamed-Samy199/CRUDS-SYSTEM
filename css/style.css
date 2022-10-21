@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+    padding: 0;margin: 0;
+    border: none;outline: none;
+    transition: all 3s linear;
+
+}
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+.shadow-lg{
+    background: url('https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg?auto=compress&cs=tinysrgb&w=600') center no-repeat;
+    background-size: cover;
+}
